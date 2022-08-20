@@ -9,7 +9,9 @@
       "unauthRoleName": "amplify-amplify17de85b6f2ea4-staging-105717-unauthRole",
       "StackName": "amplify-amplify17de85b6f2ea4-staging-105717",
       "StackId": "arn:aws:cloudformation:us-east-1:620179071580:stack/amplify-amplify17de85b6f2ea4-staging-105717/db5b7ff0-2076-11ed-8c96-0accfba743cd",
-      "AmplifyAppId": "d1x7p0b8w6xvon"
+      "AmplifyAppId": "d1x7p0b8w6xvon",
+      "AuthRoleName": "amplify-amplify17de85b6f2ea4-staging-105717-authRole",
+      "UnauthRoleName": "amplify-amplify17de85b6f2ea4-staging-105717-unauthRole"
     },
     "categories": {
       "auth": {
