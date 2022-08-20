@@ -1,3 +1,28 @@
+# Welcome to My Yelp
+***
+# Try it yourself: [Yelp-by-xan](https://main.d1x7p0b8w6xvon.amplifyapp.com/)
+
+## Task
+> I learned a lot in this project. Including I: amplify, graphql and aws.
+
+
+
+## Description
+> The main task of the project was to verify the user and make several restaurants.
+
+## Installation
+You can get the code from github: [Nurbol-Xan](https://github.com/Nurbol-Xan/My_yelp)
+
+## Usage
+
+Get the project from github and ...
+```
+    npm ci
+
+    npm start
+```
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
