@@ -37,12 +37,6 @@ function App({ signOut }) {
     setFormData(initialFormState);
   }
 
-  async function deleteRestaurant({ id }) {
-    const newRestaurantsArray = Restaurants.filter(Restaurant => Restaurant.id !== id);
-    setRestaurants(newRestaurantsArray);
-    await API.graphql({ query: deleteRestaurantMutation, variables: { input: { id } }});
-  }
-
   return (
     <div className="App">
       <YelpNavbar  signOut={signOut}/>
