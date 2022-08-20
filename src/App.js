@@ -79,7 +79,7 @@ function App({ signOut }) {
                     <th>Name</th>
                     <th>Description</th>
                     <th>City</th>
-                    <th>Delete</th>
+                    {/* <th>Delete</th> */}
                   </tr>
                 </thead>
                 <tbody>
@@ -90,7 +90,7 @@ function App({ signOut }) {
                         <td>{restaurant.name}</td>
                         <td>{restaurant.description}</td>
                         <td>{restaurant.city}</td>
-                        <td><Button onClick={() => deleteRestaurant(restaurant)} variant="danger">Delete</Button>{' '}</td>
+                        {/* <td><Button onClick={() => deleteRestaurant(restaurant)} variant="danger">Delete</Button>{' '}</td> */}
                       </tr>
                     ))
                   }
