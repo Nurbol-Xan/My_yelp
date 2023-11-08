@@ -8,7 +8,7 @@
 
 
 ## Description
-> The main task of the project was to verify the user and make several restaurants.
+> The main task of the project was to verify the user and make several lists.
 
 ## Installation
 You can get the code from github: [Nurbol-Xan](https://github.com/Nurbol-Xan/My_yelp)
